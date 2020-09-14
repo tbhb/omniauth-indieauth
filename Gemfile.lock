@@ -38,7 +38,7 @@ GEM
     parallel (1.19.2)
     parser (2.7.1.4)
       ast (~> 2.4.1)
-    public_suffix (4.0.5)
+    public_suffix (4.0.6)
     rack (2.2.3)
     rack-protection (2.0.8.1)
       rack
@@ -99,7 +99,7 @@ GEM
     tins (1.25.0)
       sync
     unicode-display_width (1.7.0)
-    webmock (3.8.3)
+    webmock (3.9.1)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
@@ -120,7 +120,7 @@ DEPENDENCIES
   rubocop-rspec (~> 1.42)
   shotgun (~> 0.9)
   sinatra (~> 2.0)
-  webmock (~> 3.8)
+  webmock (~> 3.9)
   yard (~> 0.9)
 
 BUNDLED WITH
